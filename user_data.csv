@@ -1,5 +1,10 @@
 Name, Age, Gender
 Martin, 35, Male
 Jessica, 45, Female
+<<<<<<< HEAD
 Tolkun, 32, Female
 Robert, 25, Male
+=======
+Robert, 25, Male
+Tolkun, 32, Female
+>>>>>>> e759cc11be368a357994d80906795a6b54e5d08b
