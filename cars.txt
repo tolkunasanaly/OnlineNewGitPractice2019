@@ -3,3 +3,5 @@ Audi
 Tesla
 BMW 3
 BMW X6
+Subaru WRX STI
+Honda Civic
